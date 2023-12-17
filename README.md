@@ -116,4 +116,4 @@ But this does work:
 `lg:!twcss-px-[32px] {% endif %}'>`
 
 5. Launch the local development server:
-   `shopify theme serve`
+   `shopify theme dev`
